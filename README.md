@@ -6,7 +6,7 @@
 
 若您阅读后觉得它对您有价值或有帮助，希望您能**star或者fork**这个项目。因为主办方某些原因，暂未决定开源代码。主办方发布整个比赛的数据，可以从这里获取：
 <p align="center">
-	<img src="pic/幻灯片1.png">
+	<img src="pic_png/幻灯片1.png">
 </p>
 
 
@@ -14,99 +14,99 @@
 
 ## 解决方案
 <p align="center">
-	<img src="pic/幻灯片01.png">
+	<img src="pic_png/幻灯片01.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片02.png">
+	<img src="pic_png/幻灯片02.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片03.png">
+	<img src="pic_png/幻灯片03.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片04.png">
+	<img src="pic_png/幻灯片04.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片05.png">
+	<img src="pic_png/幻灯片05.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片06.png">
+	<img src="pic_png/幻灯片06.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片07.png">
+	<img src="pic_png/幻灯片07.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片08.png">
+	<img src="pic_png/幻灯片08.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片09.png">
+	<img src="pic_png/幻灯片09.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片10.png">
+	<img src="pic_png/幻灯片10.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片11.png">
+	<img src="pic_png/幻灯片11.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片12.png">
+	<img src="pic_png/幻灯片12.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片13.png">
+	<img src="pic_png/幻灯片13.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片14.png">
+	<img src="pic_png/幻灯片14.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片15.png">
+	<img src="pic_png/幻灯片15.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片16.png">
+	<img src="pic_png/幻灯片16.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片17.png">
+	<img src="pic_png/幻灯片17.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片18.png">
+	<img src="pic_png/幻灯片18.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片19.png">
+	<img src="pic_png/幻灯片19.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片20.png">
+	<img src="pic_png/幻灯片20.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片21.png">
+	<img src="pic_png/幻灯片21.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片22.png">
+	<img src="pic_png/幻灯片22.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片23.png">
+	<img src="pic_png/幻灯片23.png">
 </p>
 
 <p align="center">
-	<img src="pic/幻灯片24.png">
+	<img src="pic_png/幻灯片24.png">
 </p>
 
 
