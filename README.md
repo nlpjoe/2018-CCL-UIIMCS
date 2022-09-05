@@ -1,6 +1,6 @@
-# 2018 CCL-中移在线客服领域用户意图分类
+# 2018 CCL-客服领域用户意图分类
 
-非常荣幸能够参与这次[中移在线客服领域用户意图分类比赛](http://www.cips-cl.org/static/CCL2018/evaluation-result.html)并取得了冠军的成绩。
+非常荣幸能够参与这次[客服领域用户意图分类比赛](http://www.cips-cl.org/static/CCL2018/evaluation-result.html)并取得了冠军的成绩。
 
 若有任何想法可以提issue或者pull request。
 
